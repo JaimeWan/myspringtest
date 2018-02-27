@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Spring MVC-4.3.13.RELEASE" type="spring-mvc">
+    <properties version="4.3.13.RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-websocket-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-portlet-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-web-4.3.13.RELEASE.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/新建文件夹 (3)/JAVA相关/mysql-connector-java-5.1.45" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹 (3)/mybits/mybatis-3.4.5/mybatis-3.4.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹 (3)/mybits/mybatis-3.4.5/lib/ant-1.9.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹 (3)/mybits/mybatis-3.4.5/lib/ant-launcher-1.9.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹 (3)/mybits/mybatis-3.4.5/lib/asm-5.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹 (3)/mybits/mybatis-3.4.5/lib/cglib-3.2.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹 (3)/mybits/mybatis-3.4.5/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹 (3)/mybits/mybatis-3.4.5/lib/javassist-3.22.0-CR2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹 (3)/mybits/mybatis-3.4.5/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹 (3)/mybits/mybatis-3.4.5/lib/log4j-api-2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹 (3)/mybits/mybatis-3.4.5/lib/log4j-core-2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹 (3)/mybits/mybatis-3.4.5/lib/ognl-3.1.15.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹 (3)/mybits/mybatis-3.4.5/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/新建文件夹 (3)/mybits/mybatis-3.4.5/lib/slf4j-log4j12-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/新建文件夹 (3)/JAVA相关/mysql-connector-java-5.1.45/src" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/新建文件夹 (3)/JAVA相关/mysql-connector-java-5.1.45" recursive="false" />
+  </library>
+</component>
